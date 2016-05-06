@@ -71,10 +71,10 @@ Requires:
 
 # For devices with working cellular modem:
 #- pattern:jolla-sailfish-cellular-apps
-#- telepathy-ring
+- telepathy-ring
 
 # For devices where test_gps eventually gets a fix:
-#- geoclue-provider-hybris
+- geoclue-provider-hybris
 
 Summary: Jolla HW Adaptation osprey
 
