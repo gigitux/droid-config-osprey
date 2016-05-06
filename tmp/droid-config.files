@@ -26,4 +26,17 @@
 /var/lib/environment/ofono/noplugin.conf
 /var/lib/environment/nemo/99-hybris.conf
 /var/lib/environment/nemo/60-multimedia.conf
+/lib/udev/rules.d/998-droid-system.rules
+/etc/izat.conf
+/etc/media_codecs_ffmpeg.xml
+/etc/media_codecs_google_telephony.xml
+/etc/acdbdata
+/etc/sec_config
+/etc/mixer_paths.xml
+/etc/media_profiles.xml
+/etc/media_codecs_google_audio.xml
+/etc/media_codecs.xml
+/etc/media_codecs_google_video.xml
+/etc/gps.conf
+/etc/audio_platform_info.xml
 /var/lib/environment/compositor/droid-hal-device.conf

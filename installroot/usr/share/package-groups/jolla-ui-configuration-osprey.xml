@@ -6,7 +6,7 @@
   <uservisible/>
   <category lang="en">Base Group</category>
   <rpm:requires>
-    <rpm:entry name="jolla-ambient-z2.0"/>
-    <rpm:entry name="ambient-icons-closed-z2.0"/>
+    <rpm:entry name="jolla-ambient-z1.5"/>
+    <rpm:entry name="ambient-icons-closed-z1.5"/>
   </rpm:requires>
 </pattern>

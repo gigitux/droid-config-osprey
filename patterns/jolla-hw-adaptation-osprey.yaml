@@ -9,6 +9,7 @@ Requires:
 - pattern:jolla-ui-configuration-osprey
 
 - droid-hal-osprey
+- droid-hal-osprey
 - droid-hal-osprey-img-boot
 - droid-hal-osprey-kernel-modules
 - droid-config-osprey-sailfish
