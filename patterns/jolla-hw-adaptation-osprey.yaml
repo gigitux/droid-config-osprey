@@ -70,7 +70,7 @@ Requires:
 - jolla-settings-layout
 
 # For devices with working cellular modem:
-#- pattern:jolla-sailfish-cellular-apps
+- pattern:jolla-sailfish-cellular-apps
 - telepathy-ring
 
 # For devices where test_gps eventually gets a fix:
